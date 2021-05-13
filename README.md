@@ -5,4 +5,4 @@ This is simple project of ultrasonic sensor with:
 - and [Arduino UNO](https://www.theengineeringprojects.com/2015/12/arduino-library-proteus-simulation.html).
 
 # Created by:
-- [Adhi Muhammad Fahmi](https://github.com/adhiimf)
+- [Adhi Muhammad Fahmi](https://github.com/adhiiimf)
